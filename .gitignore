@@ -1,0 +1,12 @@
+log
+build
+install
+launch/*cache*
+data/*
+nohup.out
+domain_id
+*.idea
+*~
+*.pyc
+*.pth
+*.csv
